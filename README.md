@@ -1,2 +1,2 @@
 # colorGitDemo
-It is just first demo my Github work!
+It is just my first demo for Github workflow!
